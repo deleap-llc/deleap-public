@@ -2,7 +2,7 @@
 
 Public-facing product information for Kandy Labs, served by GitHub Pages.
 
-Website: https://arvindkandhare.github.io/kandylabs-public/
+Website: https://apps.deleap.org/
 
 ## Products
 
