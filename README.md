@@ -17,7 +17,7 @@ New products can receive their own directory under `products/` and dedicated pol
 
 ## Publication status
 
-The product directory is published. Support and deletion-request contact: sweet.kandy@gmail.com. The privacy policy and complete deletion/retention disclosures are still pending. They are not completed app-store policy or deletion resources. Do not submit them as such yet.
+The product directory is published. Support and deletion-request contact: sweet.kandy@gmail.com. The Kin Stream Deck Android privacy policy is published at kin-stream-deck/android-privacy/ with owner-approved manual privacy support and explicit billing-ledger retention disclosures. Other product policies remain pending; do not submit those placeholder pages as app-store policies.
 
 Before policy publication, reconcile policies with deployed behavior, document verification and fulfillment including retention exceptions, and approve the effective policy text. Do not collect personal data through public issues.
 
