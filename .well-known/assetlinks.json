@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kandylabs.kinstreamdeck",
+      "sha256_cert_fingerprints": ["B6:CD:EB:06:D1:AC:B2:4D:D3:52:4C:98:A8:9B:08:2D:36:94:96:79:B8:C9:25:9A:98:16:74:67:72:1E:58:15"]
+    }
+  }
+]
