@@ -17,7 +17,7 @@ New products can receive their own directory under `products/` and dedicated pol
 
 ## Publication status
 
-The product directory is published. Support and deletion-request contact: sweet.kandy@gmail.com. The Kin Stream Deck Android privacy policy is published at kin-stream-deck/android-privacy/ with owner-approved manual privacy support and explicit billing-ledger retention disclosures. Other product policies remain pending; do not submit those placeholder pages as app-store policies.
+The product directory is published. Support and deletion-request contact: sweet.kandy@gmail.com. Kin Stream Deck has platform-specific policies at kin-stream-deck/ios-privacy/ (effective November 12, 2026) and kin-stream-deck/android-privacy/ (effective October 29, 2026), with manual privacy requests and billing-ledger retention disclosures. Other product policies remain pending; do not submit those placeholder pages as app-store policies. Mac 0.2.3 is distributed as a signed, notarized arm64 ZIP; its public release is separate from iPhone App Store submission.
 
 Before policy publication, reconcile policies with deployed behavior, document verification and fulfillment including retention exceptions, and approve the effective policy text. Do not collect personal data through public issues.
 
